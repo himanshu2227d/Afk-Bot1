@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "domainsmp.indernos.in",
-    "port": 25575,
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
