@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "103.252.219.179",
-    "port": 29403,
+    "ip": "domainsmp.indernos.in",
+    "port": 25575,
     "version": "1.20.1",
     "try-creative": false
   },
